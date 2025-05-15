@@ -1,0 +1,26 @@
+#image {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+main{  background-color: rgb(182, 189, 153);
+padding: 30px;}
+#title{color: rgb(37, 58, 52);
+font-size: 55px;}
+#img-caption {
+  font-size: 11px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 8px;
+}
+#tribute-link{background-color: aliceblue;
+color: rgb(0, 0, 0);}
+a#tribute-link:hover{
+    background-color: red;
+}
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
